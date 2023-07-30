@@ -13,12 +13,10 @@ Coming to the practical implementation, I love making extension for container en
 
 ## Projects 🏗
 
-### [Phishing Email Detector Using php](https://github.com/)
+### [Payment Gateway For Government Organization]
 
-This is a project I did with my colleague for a university project. It is a simple application that helps you identify phishing emails by analyzing the email header.
-**We build our products primarily in HTML, CSS, and PHP.**
-
-
+This is a project done for a Sri Lankan government organization during my internship.
+**I am building this project primarily using PHP, Yii2 framework**
 
 ## Interests 💡
 
