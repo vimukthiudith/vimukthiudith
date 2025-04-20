@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vimukthi Kumarasiri</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=vimukthiudith&show_icons=true&theme=radical" width="380">
-<p><em>Cyber Security Gatuate, Website Developer, Web Application Developer and Information Security Auditor. <br><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR5dm41Nm0yMmVzbjh4emI4b2ducTFmeWhuNjQ2eG41dmx2eHVpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30"><br><br>
+<p><em>Cyber Security Graduate, Website Developer, Web Application Developer and Information Security Auditor. <br><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR5dm41Nm0yMmVzbjh4emI4b2ducTFmeWhuNjQ2eG41dmx2eHVpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30"><br><br>
 
  I am an Graduate, Information Security Auditor in government organization, who has a keen interest in Web Application Security and and also web application developing who enjoy doing white hat hacking.
 
